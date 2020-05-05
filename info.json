@@ -1,0 +1,20 @@
+{
+  "name": "Sam Russell",
+    "website": "samrussell.com",
+    "linkedin": "https://www.linkedin.com/in/sam--russell/",
+    "github": "metacryst",
+    "email": "samrussell99@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Logic Pro X"
+    ]
+}
